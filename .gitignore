@@ -2,3 +2,5 @@
 # ignora as chaves: publica e privada
 DEV/bionic/id_bionic
 DEV/bionic/id_bionic.pub
+DEV/bionic/configs/id_bionic.pub
+DEV/bionic/configs/my_bionic_key.pub
